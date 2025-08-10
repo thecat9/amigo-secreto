@@ -9,9 +9,8 @@ Este proyecto fue desarrollado como parte de una tarea de programación web de A
 
 ## 📸 Vista del proyecto
 
-![Captura de pantalla de la página Amigo Secreto](assets/amigo-secreto.png)
+![Captura de pantalla de la página Amigo Secreto](screenshot/captura.jpg)
 
-> *Nota: Esta imagen forma parte del proyecto y se encuentra en la carpeta `assets/`.*
 
 ---
 
