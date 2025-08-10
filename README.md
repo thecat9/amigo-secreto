@@ -76,6 +76,6 @@ Este proyecto es de código abierto y está hecho con fines educativos. Puedes u
 
 ---
 
-Hecho con 💙 por **Carlos Victorio**  
+Hecho por Carlos Victorio  
 Para la clase de Desarrollo Web – 
 📚 [AluraLatam | Oracle Next Education]
